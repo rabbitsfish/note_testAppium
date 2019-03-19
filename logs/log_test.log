@@ -1,0 +1,755 @@
+2019-03-13 19:00:19,020 desired_caps.py[line:22] INFO start app...
+2019-03-13 19:20:02,441 desired_caps.py[line:22] INFO start app...
+2019-03-13 19:58:49,298 desired_caps.py[line:22] INFO start app...
+2019-03-13 19:59:04,817 home_page.py[line:5] INFO checking cancelBtn
+2019-03-13 19:59:05,529 home_page.py[line:11] INFO click cancel button
+2019-03-13 19:59:06,226 home_page.py[line:16] INFO checking skipBtn
+2019-03-13 19:59:06,256 home_page.py[line:22] INFO click skip button
+2019-03-13 20:05:55,577 desired_caps.py[line:22] INFO start app...
+2019-03-13 20:06:11,297 home_page.py[line:10] INFO checking cancelBtn
+2019-03-13 20:07:44,025 desired_caps.py[line:22] INFO start app...
+2019-03-13 20:07:59,810 home_page.py[line:10] INFO checking cancelBtn
+2019-03-13 20:08:01,369 home_page.py[line:15] INFO click cancel button
+2019-03-13 20:08:01,387 home_page.py[line:20] INFO checking skipBtn
+2019-03-13 20:08:02,088 home_page.py[line:25] INFO click skip button
+2019-03-13 20:14:36,087 desired_caps.py[line:22] INFO start app...
+2019-03-13 20:15:50,719 desired_caps.py[line:22] INFO start app...
+2019-03-13 20:16:08,927 home_page.py[line:10] INFO checking cancelBtn
+2019-03-13 20:16:09,690 home_page.py[line:15] INFO click cancel button
+2019-03-13 20:16:09,720 home_page.py[line:20] INFO checking skipBtn
+2019-03-13 20:16:10,414 home_page.py[line:25] INFO click skip button
+2019-03-13 20:18:27,102 desired_caps.py[line:22] INFO start app...
+2019-03-13 20:18:43,832 home_page.py[line:10] INFO checking cancelBtn
+2019-03-13 20:18:44,631 home_page.py[line:15] INFO click cancel button
+2019-03-13 20:18:44,653 home_page.py[line:20] INFO checking skipBtn
+2019-03-13 20:18:45,319 home_page.py[line:25] INFO click skip button
+2019-03-13 20:33:41,210 desired_caps.py[line:22] INFO start app...
+2019-03-13 20:34:40,239 desired_caps.py[line:22] INFO start app...
+2019-03-13 22:19:24,313 desired_caps.py[line:22] INFO start app...
+2019-03-13 22:19:39,666 login_veiw.py[line:11] INFO start login
+2019-03-13 22:20:09,497 desired_caps.py[line:22] INFO start app...
+2019-03-13 22:20:27,097 login_veiw.py[line:11] INFO start login
+2019-03-13 22:21:49,391 desired_caps.py[line:22] INFO start app...
+2019-03-13 22:22:08,116 home_page.py[line:10] INFO checking cancelBtn
+2019-03-13 22:22:08,828 home_page.py[line:15] INFO click cancel button
+2019-03-13 22:22:08,851 home_page.py[line:20] INFO checking skipBtn
+2019-03-13 22:22:09,536 home_page.py[line:25] INFO click skip button
+2019-03-13 22:22:09,564 login_veiw.py[line:11] INFO start login
+2019-03-13 22:22:11,088 login_veiw.py[line:13] INFO username: zxw4321
+2019-03-13 22:22:12,177 login_veiw.py[line:15] INFO password: zxw1234
+2019-03-13 22:22:13,272 login_veiw.py[line:17] INFO click login button
+2019-03-13 22:22:13,840 login_veiw.py[line:19] INFO login success
+2019-03-14 00:07:04,980 myunittest.py[line:9] INFO start...
+2019-03-14 00:07:05,012 desired_caps.py[line:22] INFO start app...
+2019-03-14 00:07:28,839 home_page.py[line:10] INFO checking cancelBtn
+2019-03-14 00:07:29,087 home_page.py[line:15] INFO click cancel button
+2019-03-14 00:07:30,028 home_page.py[line:20] INFO checking skipBtn
+2019-03-14 00:07:30,047 home_page.py[line:25] INFO click skip button
+2019-03-14 00:07:30,068 myunittest.py[line:22] INFO start login...
+2019-03-14 00:07:30,068 login_veiw.py[line:11] INFO start login
+2019-03-14 00:07:31,733 login_veiw.py[line:13] INFO username: 自学网2018
+2019-03-14 00:07:32,821 login_veiw.py[line:15] INFO password: zxw2018
+2019-03-14 00:07:33,884 login_veiw.py[line:17] INFO click login button
+2019-03-14 00:07:37,664 login_veiw.py[line:19] INFO login success
+2019-03-14 00:07:37,664 myunittest.py[line:24] INFO login success
+2019-03-14 00:07:37,664 myunittest.py[line:17] INFO end...
+2019-03-14 00:07:44,086 myunittest.py[line:9] INFO start...
+2019-03-14 00:07:44,088 desired_caps.py[line:22] INFO start app...
+2019-03-14 00:08:00,622 home_page.py[line:10] INFO checking cancelBtn
+2019-03-14 00:08:01,332 home_page.py[line:15] INFO click cancel button
+2019-03-14 00:08:01,353 home_page.py[line:20] INFO checking skipBtn
+2019-03-14 00:08:02,029 home_page.py[line:25] INFO click skip button
+2019-03-14 00:08:02,061 myunittest.py[line:27] INFO start login...
+2019-03-14 00:08:02,061 login_veiw.py[line:11] INFO start login
+2019-03-14 00:08:03,055 login_veiw.py[line:13] INFO username: 自学网2017
+2019-03-14 00:08:04,159 login_veiw.py[line:15] INFO password: zxw2017
+2019-03-14 00:08:05,227 login_veiw.py[line:17] INFO click login button
+2019-03-14 00:08:06,389 login_veiw.py[line:19] INFO login success
+2019-03-14 00:08:06,389 myunittest.py[line:29] INFO login fail
+2019-03-14 00:08:06,389 myunittest.py[line:17] INFO end...
+2019-03-14 00:08:12,730 myunittest.py[line:9] INFO start...
+2019-03-14 00:08:12,736 desired_caps.py[line:22] INFO start app...
+2019-03-14 00:08:29,765 home_page.py[line:10] INFO checking cancelBtn
+2019-03-14 00:08:30,485 home_page.py[line:15] INFO click cancel button
+2019-03-14 00:08:30,507 home_page.py[line:20] INFO checking skipBtn
+2019-03-14 00:08:31,198 home_page.py[line:25] INFO click skip button
+2019-03-14 00:08:31,220 myunittest.py[line:32] INFO start login...
+2019-03-14 00:08:31,221 login_veiw.py[line:11] INFO start login
+2019-03-14 00:08:32,248 login_veiw.py[line:13] INFO username: 666
+2019-03-14 00:08:33,363 login_veiw.py[line:15] INFO password: 222
+2019-03-14 00:08:34,430 login_veiw.py[line:17] INFO click login button
+2019-03-14 00:08:34,996 login_veiw.py[line:19] INFO login success
+2019-03-14 00:08:34,996 myunittest.py[line:34] INFO login fail
+2019-03-14 00:08:34,996 myunittest.py[line:17] INFO end...
+2019-03-14 00:13:53,493 myunittest.py[line:9] INFO start...
+2019-03-14 00:13:53,501 desired_caps.py[line:22] INFO start app...
+2019-03-14 00:14:11,708 home_page.py[line:10] INFO checking cancelBtn
+2019-03-14 00:14:12,334 home_page.py[line:15] INFO click cancel button
+2019-03-14 00:14:12,363 home_page.py[line:20] INFO checking skipBtn
+2019-03-14 00:14:13,053 home_page.py[line:25] INFO click skip button
+2019-03-14 00:14:13,084 myunittest.py[line:22] INFO start login...
+2019-03-14 00:14:13,084 login_veiw.py[line:11] INFO start login
+2019-03-14 00:14:14,072 login_veiw.py[line:13] INFO username: 自学网2018
+2019-03-14 00:14:15,157 login_veiw.py[line:15] INFO password: zxw2018
+2019-03-14 00:14:16,214 login_veiw.py[line:17] INFO click login button
+2019-03-14 00:14:19,302 login_veiw.py[line:19] INFO login success
+2019-03-14 00:14:19,303 myunittest.py[line:24] INFO login success
+2019-03-14 00:14:19,303 myunittest.py[line:17] INFO end...
+2019-03-14 00:14:25,607 myunittest.py[line:9] INFO start...
+2019-03-14 00:14:25,610 desired_caps.py[line:22] INFO start app...
+2019-03-14 00:14:42,146 home_page.py[line:10] INFO checking cancelBtn
+2019-03-14 00:14:42,879 home_page.py[line:15] INFO click cancel button
+2019-03-14 00:14:43,780 home_page.py[line:20] INFO checking skipBtn
+2019-03-14 00:14:43,803 home_page.py[line:25] INFO click skip button
+2019-03-14 00:14:43,824 myunittest.py[line:27] INFO start login...
+2019-03-14 00:14:43,824 login_veiw.py[line:11] INFO start login
+2019-03-14 00:14:45,357 login_veiw.py[line:13] INFO username: 自学网2017
+2019-03-14 00:14:46,472 login_veiw.py[line:15] INFO password: zxw2017
+2019-03-14 00:14:47,534 login_veiw.py[line:17] INFO click login button
+2019-03-14 00:14:48,095 login_veiw.py[line:19] INFO login success
+2019-03-14 00:14:48,095 myunittest.py[line:29] INFO login fail
+2019-03-14 00:14:48,095 myunittest.py[line:17] INFO end...
+2019-03-14 00:14:54,411 myunittest.py[line:9] INFO start...
+2019-03-14 00:14:54,415 desired_caps.py[line:22] INFO start app...
+2019-03-14 00:15:11,538 home_page.py[line:10] INFO checking cancelBtn
+2019-03-14 00:15:12,272 home_page.py[line:15] INFO click cancel button
+2019-03-14 00:15:12,301 home_page.py[line:20] INFO checking skipBtn
+2019-03-14 00:15:13,010 home_page.py[line:25] INFO click skip button
+2019-03-14 00:15:13,055 myunittest.py[line:32] INFO start login...
+2019-03-14 00:15:13,055 login_veiw.py[line:11] INFO start login
+2019-03-14 00:15:14,620 login_veiw.py[line:13] INFO username: 666
+2019-03-14 00:15:15,727 login_veiw.py[line:15] INFO password: 222
+2019-03-14 00:15:16,798 login_veiw.py[line:17] INFO click login button
+2019-03-14 00:15:17,352 login_veiw.py[line:19] INFO login success
+2019-03-14 00:15:17,352 myunittest.py[line:34] INFO login fail
+2019-03-14 00:15:17,353 myunittest.py[line:17] INFO end...
+2019-03-14 00:25:01,026 myunittest.py[line:8] INFO start...
+2019-03-14 00:25:01,028 desired_caps.py[line:22] INFO start app...
+2019-03-14 00:25:16,795 home_page.py[line:10] INFO checking cancelBtn
+2019-03-14 00:25:17,497 home_page.py[line:15] INFO click cancel button
+2019-03-14 00:25:17,517 home_page.py[line:20] INFO checking skipBtn
+2019-03-14 00:25:18,189 home_page.py[line:25] INFO click skip button
+2019-03-14 00:25:18,215 myunittest.py[line:21] INFO testing
+2019-03-14 00:25:18,215 myunittest.py[line:16] INFO end...
+2019-03-14 00:26:00,585 myunittest.py[line:8] INFO start...
+2019-03-14 00:26:00,587 desired_caps.py[line:22] INFO start app...
+2019-03-14 00:26:16,478 myunittest.py[line:22] INFO testing
+2019-03-14 00:26:16,478 myunittest.py[line:17] INFO end...
+2019-03-14 00:26:39,414 myunittest.py[line:8] INFO start...
+2019-03-14 00:26:39,417 desired_caps.py[line:22] INFO start app...
+2019-03-14 00:26:55,563 myunittest.py[line:22] INFO testing
+2019-03-14 00:26:55,563 myunittest.py[line:17] INFO end...
+2019-03-14 00:29:03,901 myunittest.py[line:8] INFO start...
+2019-03-14 00:29:03,904 desired_caps.py[line:22] INFO start app...
+2019-03-14 00:29:19,307 myunittest.py[line:22] INFO testing
+2019-03-14 00:29:19,307 myunittest.py[line:17] INFO end...
+2019-03-14 00:30:27,206 myunittest.py[line:8] INFO start...
+2019-03-14 00:30:27,206 myunittest.py[line:22] INFO testing
+2019-03-14 00:30:27,206 myunittest.py[line:17] INFO end...
+2019-03-14 00:31:44,126 myunittest.py[line:8] INFO start...
+2019-03-14 00:31:44,129 desired_caps.py[line:22] INFO start app...
+2019-03-14 00:31:59,279 myunittest.py[line:22] INFO testing
+2019-03-14 00:31:59,279 myunittest.py[line:17] INFO end...
+2019-03-14 00:36:04,239 myunittest.py[line:9] INFO start...
+2019-03-14 00:36:04,242 desired_caps.py[line:22] INFO start app...
+2019-03-14 00:36:19,483 home_page.py[line:10] INFO checking cancelBtn
+2019-03-14 00:36:20,453 home_page.py[line:15] INFO click cancel button
+2019-03-14 00:36:21,156 home_page.py[line:20] INFO checking skipBtn
+2019-03-14 00:36:21,176 home_page.py[line:25] INFO click skip button
+2019-03-14 00:36:21,194 myunittest.py[line:23] INFO start login...
+2019-03-14 00:36:21,194 login_veiw.py[line:11] INFO start login
+2019-03-14 00:36:22,728 login_veiw.py[line:13] INFO username: 自学网2018
+2019-03-14 00:36:23,785 login_veiw.py[line:15] INFO password: zxw2018
+2019-03-14 00:36:24,848 login_veiw.py[line:17] INFO click login button
+2019-03-14 00:36:28,410 login_veiw.py[line:19] INFO login success
+2019-03-14 00:36:28,410 myunittest.py[line:25] INFO login success
+2019-03-14 00:36:28,411 myunittest.py[line:18] INFO end...
+2019-03-14 00:36:34,850 myunittest.py[line:9] INFO start...
+2019-03-14 00:36:34,853 desired_caps.py[line:22] INFO start app...
+2019-03-14 00:36:50,384 home_page.py[line:10] INFO checking cancelBtn
+2019-03-14 00:36:51,125 home_page.py[line:15] INFO click cancel button
+2019-03-14 00:36:51,150 home_page.py[line:20] INFO checking skipBtn
+2019-03-14 00:36:51,849 home_page.py[line:25] INFO click skip button
+2019-03-14 00:36:51,868 myunittest.py[line:28] INFO start login...
+2019-03-14 00:36:51,868 login_veiw.py[line:11] INFO start login
+2019-03-14 00:36:52,881 login_veiw.py[line:13] INFO username: 自学网2017
+2019-03-14 00:36:53,973 login_veiw.py[line:15] INFO password: zxw2017
+2019-03-14 00:36:55,037 login_veiw.py[line:17] INFO click login button
+2019-03-14 00:36:55,578 login_veiw.py[line:19] INFO login success
+2019-03-14 00:36:55,578 myunittest.py[line:30] INFO login fail
+2019-03-14 00:36:55,578 myunittest.py[line:18] INFO end...
+2019-03-14 00:37:01,972 myunittest.py[line:9] INFO start...
+2019-03-14 00:37:01,975 desired_caps.py[line:22] INFO start app...
+2019-03-14 00:37:18,934 home_page.py[line:10] INFO checking cancelBtn
+2019-03-14 00:37:19,618 home_page.py[line:15] INFO click cancel button
+2019-03-14 00:37:19,646 home_page.py[line:20] INFO checking skipBtn
+2019-03-14 00:37:20,333 home_page.py[line:25] INFO click skip button
+2019-03-14 00:37:20,356 myunittest.py[line:33] INFO start login...
+2019-03-14 00:37:20,356 login_veiw.py[line:11] INFO start login
+2019-03-14 00:37:21,899 login_veiw.py[line:13] INFO username: 666
+2019-03-14 00:37:23,003 login_veiw.py[line:15] INFO password: 222
+2019-03-14 00:37:24,078 login_veiw.py[line:17] INFO click login button
+2019-03-14 00:37:24,655 login_veiw.py[line:19] INFO login success
+2019-03-14 00:37:24,655 myunittest.py[line:35] INFO login fail
+2019-03-14 00:37:24,655 myunittest.py[line:18] INFO end...
+2019-03-14 15:50:01,260 myunittest.py[line:9] INFO start...
+2019-03-14 15:50:01,313 desired_caps.py[line:25] INFO start app...
+2019-03-14 15:50:07,740 desired_caps.py[line:25] INFO start app...
+2019-03-14 15:51:29,473 desired_caps.py[line:25] INFO start app...
+2019-03-14 17:40:55,704 desired_caps.py[line:25] INFO start app...
+2019-03-14 17:41:14,151 home_page.py[line:11] INFO checking cancelBtn
+2019-03-14 17:41:14,868 home_page.py[line:16] INFO click cancel button
+2019-03-14 17:41:34,590 desired_caps.py[line:25] INFO start app...
+2019-03-14 17:41:52,667 home_page.py[line:11] INFO checking cancelBtn
+2019-03-14 17:41:53,390 home_page.py[line:16] INFO click cancel button
+2019-03-14 17:41:54,122 home_page.py[line:35] INFO start swip left
+2019-03-14 17:41:54,122 home_page.py[line:30] INFO get size
+2019-03-14 17:41:55,372 home_page.py[line:21] INFO checking skipBtn
+2019-03-14 17:41:55,876 home_page.py[line:26] INFO click skip button
+2019-03-14 17:44:30,121 desired_caps.py[line:25] INFO start app...
+2019-03-14 17:44:44,684 home_page.py[line:11] INFO checking cancelBtn
+2019-03-14 17:44:45,309 home_page.py[line:16] INFO click cancel button
+2019-03-14 17:44:46,055 home_page.py[line:35] INFO start swip left
+2019-03-14 17:44:46,055 home_page.py[line:30] INFO get size
+2019-03-14 17:44:47,327 home_page.py[line:44] INFO get start-app screenshot
+2019-03-14 17:44:47,552 home_page.py[line:21] INFO checking skipBtn
+2019-03-14 17:44:47,826 home_page.py[line:26] INFO click skip button
+2019-03-14 23:12:29,959 desired_caps.py[line:25] INFO start app...
+2019-03-14 23:12:51,966 home_page.py[line:12] INFO checking cancelBtn
+2019-03-14 23:12:52,666 home_page.py[line:17] INFO click cancel button
+2019-03-14 23:12:53,424 home_page.py[line:22] INFO checking skipBtn
+2019-03-14 23:12:53,453 home_page.py[line:27] INFO click skip button
+2019-03-14 23:12:53,484 login_veiw.py[line:17] INFO start login
+2019-03-14 23:12:55,088 login_veiw.py[line:19] INFO username: 自学网2018
+2019-03-14 23:12:56,193 login_veiw.py[line:21] INFO password: zxw2018
+2019-03-14 23:12:57,265 login_veiw.py[line:23] INFO click login button
+2019-03-14 23:12:57,832 login_veiw.py[line:25] INFO login success
+2019-03-14 23:12:57,833 login_veiw.py[line:39] INFO check login status
+2019-03-14 23:12:57,833 login_veiw.py[line:28] INFO check login alert
+2019-03-14 23:17:03,735 desired_caps.py[line:25] INFO start app...
+2019-03-14 23:17:24,546 home_page.py[line:12] INFO checking cancelBtn
+2019-03-14 23:19:53,679 desired_caps.py[line:25] INFO start app...
+2019-03-14 23:20:10,090 home_page.py[line:12] INFO checking cancelBtn
+2019-03-14 23:20:10,822 home_page.py[line:17] INFO click cancel button
+2019-03-14 23:20:10,842 home_page.py[line:22] INFO checking skipBtn
+2019-03-14 23:20:11,559 home_page.py[line:27] INFO click skip button
+2019-03-14 23:20:11,587 login_veiw.py[line:17] INFO start login
+2019-03-14 23:20:13,128 login_veiw.py[line:19] INFO username: 自学网2018
+2019-03-14 23:20:14,228 login_veiw.py[line:21] INFO password: zxw2018
+2019-03-14 23:20:15,309 login_veiw.py[line:23] INFO click login button
+2019-03-14 23:20:15,857 login_veiw.py[line:25] INFO login success
+2019-03-14 23:20:15,857 login_veiw.py[line:39] INFO check login status
+2019-03-14 23:20:15,857 login_veiw.py[line:28] INFO check login alert
+2019-03-14 23:20:19,749 login_veiw.py[line:35] INFO click login alert
+2019-03-14 23:20:21,880 login_veiw.py[line:47] INFO login success
+2019-03-14 23:20:21,881 login_veiw.py[line:51] INFO click my button
+2019-03-14 23:20:22,157 login_veiw.py[line:53] INFO click setting button
+2019-03-14 23:20:23,091 login_veiw.py[line:55] INFO click logout button 
+2019-03-14 23:20:24,728 login_veiw.py[line:57] INFO click logout commit button
+2019-03-14 23:20:53,132 desired_caps.py[line:25] INFO start app...
+2019-03-14 23:21:14,458 home_page.py[line:12] INFO checking cancelBtn
+2019-03-14 23:21:15,185 home_page.py[line:17] INFO click cancel button
+2019-03-14 23:21:15,207 home_page.py[line:22] INFO checking skipBtn
+2019-03-14 23:21:15,955 home_page.py[line:27] INFO click skip button
+2019-03-14 23:21:15,985 login_veiw.py[line:17] INFO start login
+2019-03-14 23:21:17,543 login_veiw.py[line:19] INFO username: 自学网2018
+2019-03-14 23:21:18,651 login_veiw.py[line:21] INFO password: zxw2018
+2019-03-14 23:21:19,720 login_veiw.py[line:23] INFO click login button
+2019-03-14 23:21:20,890 login_veiw.py[line:25] INFO login success
+2019-03-14 23:21:20,890 login_veiw.py[line:39] INFO check login status
+2019-03-14 23:21:20,890 login_veiw.py[line:28] INFO check login alert
+2019-03-14 23:21:24,260 login_veiw.py[line:35] INFO click login alert
+2019-03-14 23:22:11,330 desired_caps.py[line:25] INFO start app...
+2019-03-14 23:22:28,205 home_page.py[line:12] INFO checking cancelBtn
+2019-03-14 23:22:28,893 home_page.py[line:17] INFO click cancel button
+2019-03-14 23:22:28,920 home_page.py[line:22] INFO checking skipBtn
+2019-03-14 23:22:29,661 home_page.py[line:27] INFO click skip button
+2019-03-14 23:22:29,687 login_veiw.py[line:17] INFO start login
+2019-03-14 23:22:31,249 login_veiw.py[line:19] INFO username: 自学网2018
+2019-03-14 23:22:32,370 login_veiw.py[line:21] INFO password: zxw2018
+2019-03-14 23:22:33,446 login_veiw.py[line:23] INFO click login button
+2019-03-14 23:22:34,614 login_veiw.py[line:25] INFO login success
+2019-03-14 23:22:34,614 login_veiw.py[line:39] INFO check login status
+2019-03-14 23:22:34,614 login_veiw.py[line:28] INFO check login alert
+2019-03-14 23:22:38,226 login_veiw.py[line:35] INFO click login alert
+2019-03-14 23:22:40,104 login_veiw.py[line:47] INFO login success
+2019-03-14 23:22:40,104 login_veiw.py[line:51] INFO click my button
+2019-03-14 23:22:40,434 login_veiw.py[line:53] INFO click setting button
+2019-03-14 23:22:41,296 login_veiw.py[line:55] INFO click logout button 
+2019-03-14 23:22:43,026 login_veiw.py[line:57] INFO click logout commit button
+2019-03-14 23:23:15,918 desired_caps.py[line:25] INFO start app...
+2019-03-14 23:23:36,776 home_page.py[line:12] INFO checking cancelBtn
+2019-03-14 23:23:37,518 home_page.py[line:17] INFO click cancel button
+2019-03-14 23:23:37,546 home_page.py[line:22] INFO checking skipBtn
+2019-03-14 23:23:38,282 home_page.py[line:27] INFO click skip button
+2019-03-14 23:23:38,310 login_veiw.py[line:17] INFO start login
+2019-03-14 23:23:39,354 login_veiw.py[line:19] INFO username: 自学网2018
+2019-03-14 23:23:40,463 login_veiw.py[line:21] INFO password: zxw2028
+2019-03-14 23:23:41,051 login_veiw.py[line:23] INFO click login button
+2019-03-14 23:23:42,301 login_veiw.py[line:25] INFO login success
+2019-03-14 23:23:42,302 login_veiw.py[line:39] INFO check login status
+2019-03-14 23:23:42,302 login_veiw.py[line:28] INFO check login alert
+2019-03-14 23:32:01,791 desired_caps.py[line:25] INFO start app...
+2019-03-14 23:32:17,301 home_page.py[line:12] INFO checking cancelBtn
+2019-03-14 23:32:17,968 home_page.py[line:17] INFO click cancel button
+2019-03-14 23:32:18,681 home_page.py[line:22] INFO checking skipBtn
+2019-03-14 23:32:18,715 home_page.py[line:27] INFO click skip button
+2019-03-14 23:32:18,733 login_veiw.py[line:17] INFO start login
+2019-03-14 23:32:20,248 login_veiw.py[line:19] INFO username: 自学网2018
+2019-03-14 23:32:21,347 login_veiw.py[line:21] INFO password: zxw2028
+2019-03-14 23:32:22,413 login_veiw.py[line:23] INFO click login button
+2019-03-14 23:32:22,962 login_veiw.py[line:25] INFO login success
+2019-03-14 23:32:22,962 login_veiw.py[line:39] INFO check login status
+2019-03-14 23:32:22,963 login_veiw.py[line:28] INFO check login alert
+2019-03-14 23:33:58,315 desired_caps.py[line:25] INFO start app...
+2019-03-14 23:34:18,983 home_page.py[line:12] INFO checking cancelBtn
+2019-03-14 23:34:19,886 home_page.py[line:17] INFO click cancel button
+2019-03-14 23:34:19,919 home_page.py[line:22] INFO checking skipBtn
+2019-03-14 23:34:20,666 home_page.py[line:27] INFO click skip button
+2019-03-14 23:34:20,695 login_veiw.py[line:17] INFO start login
+2019-03-14 23:34:22,310 login_veiw.py[line:19] INFO username: 自学网2018
+2019-03-14 23:34:23,407 login_veiw.py[line:21] INFO password: zxw2028
+2019-03-14 23:34:24,016 login_veiw.py[line:23] INFO click login button
+2019-03-14 23:34:24,659 login_veiw.py[line:25] INFO login success
+2019-03-14 23:34:24,660 login_veiw.py[line:39] INFO check login status
+2019-03-14 23:34:24,660 login_veiw.py[line:28] INFO check login alert
+2019-03-14 23:34:35,896 base_veiw.py[line:12] ERROR 定位失败
+2019-03-14 23:34:35,896 login_veiw.py[line:35] INFO click login alert
+2019-03-14 23:40:07,367 desired_caps.py[line:25] INFO start app...
+2019-03-14 23:40:29,131 home_page.py[line:12] INFO checking cancelBtn
+2019-03-14 23:40:29,862 home_page.py[line:17] INFO click cancel button
+2019-03-14 23:42:13,445 desired_caps.py[line:25] INFO start app...
+2019-03-14 23:42:30,472 home_page.py[line:12] INFO checking cancelBtn
+2019-03-14 23:42:31,246 home_page.py[line:17] INFO click cancel button
+2019-03-14 23:42:31,274 home_page.py[line:22] INFO checking skipBtn
+2019-03-14 23:42:31,989 home_page.py[line:27] INFO click skip button
+2019-03-14 23:42:32,027 login_veiw.py[line:17] INFO start login
+2019-03-14 23:42:33,624 login_veiw.py[line:19] INFO username: 自学网2018
+2019-03-14 23:42:34,720 login_veiw.py[line:21] INFO password: zxw2028
+2019-03-14 23:42:35,823 login_veiw.py[line:23] INFO click login button
+2019-03-14 23:42:36,986 login_veiw.py[line:25] INFO login success
+2019-03-14 23:42:36,986 login_veiw.py[line:38] INFO check login status
+2019-03-14 23:42:36,986 login_veiw.py[line:28] INFO check login alert
+2019-03-14 23:42:48,002 login_veiw.py[line:32] INFO no login alert
+2019-03-14 23:42:59,379 home_page.py[line:45] INFO get login screenshot
+2019-03-14 23:42:59,637 login_veiw.py[line:45] INFO login fail
+2019-03-15 00:06:28,770 desired_caps.py[line:25] INFO start app...
+2019-03-15 00:06:51,700 home_page.py[line:12] INFO checking cancelBtn
+2019-03-15 00:06:52,466 home_page.py[line:17] INFO click cancel button
+2019-03-15 00:06:52,497 home_page.py[line:22] INFO checking skipBtn
+2019-03-15 00:06:53,244 home_page.py[line:27] INFO click skip button
+2019-03-15 00:06:53,273 register_view.py[line:19] INFO start register
+2019-03-15 00:06:54,504 register_view.py[line:21] INFO start for image
+2019-03-15 00:07:05,995 register_view.py[line:36] INFO 定位失败
+2019-03-15 00:11:04,632 desired_caps.py[line:25] INFO start app...
+2019-03-15 00:11:27,565 home_page.py[line:12] INFO checking cancelBtn
+2019-03-15 00:11:28,295 home_page.py[line:17] INFO click cancel button
+2019-03-15 00:11:28,325 home_page.py[line:22] INFO checking skipBtn
+2019-03-15 00:11:29,066 home_page.py[line:27] INFO click skip button
+2019-03-15 00:11:29,092 register_view.py[line:19] INFO start register
+2019-03-15 00:11:30,321 register_view.py[line:21] INFO start for image
+2019-03-15 00:12:18,077 desired_caps.py[line:25] INFO start app...
+2019-03-15 00:12:41,019 home_page.py[line:12] INFO checking cancelBtn
+2019-03-15 00:12:41,763 home_page.py[line:17] INFO click cancel button
+2019-03-15 00:12:41,791 home_page.py[line:22] INFO checking skipBtn
+2019-03-15 00:12:42,553 home_page.py[line:27] INFO click skip button
+2019-03-15 00:12:42,584 register_view.py[line:19] INFO start register
+2019-03-15 00:12:43,795 register_view.py[line:21] INFO start for image
+2019-03-15 00:13:19,052 desired_caps.py[line:25] INFO start app...
+2019-03-15 00:13:41,681 home_page.py[line:12] INFO checking cancelBtn
+2019-03-15 00:13:42,424 home_page.py[line:17] INFO click cancel button
+2019-03-15 00:13:42,457 home_page.py[line:22] INFO checking skipBtn
+2019-03-15 00:13:43,212 home_page.py[line:27] INFO click skip button
+2019-03-15 00:13:43,247 register_view.py[line:19] INFO start register
+2019-03-15 00:13:44,516 register_view.py[line:21] INFO start for image
+2019-03-15 00:13:46,153 register_view.py[line:23] INFO start for select picture
+2019-03-15 00:16:36,058 desired_caps.py[line:25] INFO start app...
+2019-03-15 00:16:58,130 home_page.py[line:12] INFO checking cancelBtn
+2019-03-15 00:16:58,850 home_page.py[line:17] INFO click cancel button
+2019-03-15 00:16:58,889 home_page.py[line:22] INFO checking skipBtn
+2019-03-15 00:16:59,644 home_page.py[line:27] INFO click skip button
+2019-03-15 00:16:59,678 register_view.py[line:19] INFO start register
+2019-03-15 00:17:00,902 register_view.py[line:21] INFO start for image
+2019-03-15 00:17:01,948 register_view.py[line:23] INFO start for select picture
+2019-03-15 00:17:04,510 register_view.py[line:25] INFO start for save image
+2019-03-15 00:17:04,607 register_view.py[line:27] INFO register for username
+2019-03-15 00:17:06,209 register_view.py[line:29] INFO register for password
+2019-03-15 00:17:07,293 register_view.py[line:31] INFO register for address
+2019-03-15 00:17:08,386 register_view.py[line:33] INFO click register button
+2019-03-15 00:18:03,431 desired_caps.py[line:25] INFO start app...
+2019-03-15 00:18:27,073 home_page.py[line:12] INFO checking cancelBtn
+2019-03-15 00:18:27,759 home_page.py[line:17] INFO click cancel button
+2019-03-15 00:18:27,794 home_page.py[line:22] INFO checking skipBtn
+2019-03-15 00:18:28,538 home_page.py[line:27] INFO click skip button
+2019-03-15 00:18:28,574 register_view.py[line:20] INFO start register
+2019-03-15 00:18:29,890 register_view.py[line:22] INFO start for image
+2019-03-15 00:18:31,466 register_view.py[line:24] INFO start for select picture
+2019-03-15 00:18:34,007 register_view.py[line:26] INFO start for save image
+2019-03-15 00:18:34,105 register_view.py[line:28] INFO register for username
+2019-03-15 00:18:35,719 register_view.py[line:30] INFO register for password
+2019-03-15 00:18:36,811 register_view.py[line:32] INFO register for address
+2019-03-15 00:18:37,883 register_view.py[line:34] INFO click register button
+2019-03-15 00:21:54,385 desired_caps.py[line:25] INFO start app...
+2019-03-15 00:22:17,993 home_page.py[line:12] INFO checking cancelBtn
+2019-03-15 00:22:18,704 home_page.py[line:17] INFO click cancel button
+2019-03-15 00:22:19,406 home_page.py[line:22] INFO checking skipBtn
+2019-03-15 00:22:19,439 home_page.py[line:27] INFO click skip button
+2019-03-15 00:22:19,465 register_view.py[line:20] INFO start register
+2019-03-15 00:22:20,678 register_view.py[line:22] INFO start for image
+2019-03-15 00:22:22,247 register_view.py[line:24] INFO start for select picture
+2019-03-15 00:22:23,446 register_view.py[line:26] INFO start for save image
+2019-03-15 00:22:24,777 register_view.py[line:28] INFO register for username
+2019-03-15 00:22:26,985 register_view.py[line:30] INFO register for password
+2019-03-15 00:22:28,078 register_view.py[line:32] INFO register for address
+2019-03-15 00:22:29,152 register_view.py[line:34] INFO click register button
+2019-03-15 00:22:55,200 desired_caps.py[line:25] INFO start app...
+2019-03-15 00:23:18,906 home_page.py[line:12] INFO checking cancelBtn
+2019-03-15 00:23:19,577 home_page.py[line:17] INFO click cancel button
+2019-03-15 00:23:20,306 home_page.py[line:22] INFO checking skipBtn
+2019-03-15 00:23:20,361 home_page.py[line:27] INFO click skip button
+2019-03-15 00:23:20,385 register_view.py[line:20] INFO start register
+2019-03-15 00:23:21,605 register_view.py[line:22] INFO start for image
+2019-03-15 00:23:23,146 register_view.py[line:24] INFO start for select picture
+2019-03-15 00:23:24,438 register_view.py[line:26] INFO start for save image
+2019-03-15 00:23:25,794 register_view.py[line:28] INFO register for username
+2019-03-15 00:23:27,588 register_view.py[line:30] INFO register for password
+2019-03-15 00:23:28,680 register_view.py[line:32] INFO register for address
+2019-03-15 00:23:36,168 desired_caps.py[line:25] INFO start app...
+2019-03-15 00:23:58,668 home_page.py[line:12] INFO checking cancelBtn
+2019-03-15 00:23:59,366 home_page.py[line:17] INFO click cancel button
+2019-03-15 00:23:59,396 home_page.py[line:22] INFO checking skipBtn
+2019-03-15 00:24:00,128 home_page.py[line:27] INFO click skip button
+2019-03-15 00:24:00,158 register_view.py[line:20] INFO start register
+2019-03-15 00:24:01,337 register_view.py[line:22] INFO start for image
+2019-03-15 00:24:02,900 register_view.py[line:24] INFO start for select picture
+2019-03-15 00:24:05,432 register_view.py[line:26] INFO start for save image
+2019-03-15 00:24:05,534 register_view.py[line:28] INFO register for username
+2019-03-15 00:24:07,809 register_view.py[line:30] INFO register for password
+2019-03-15 00:24:08,890 register_view.py[line:32] INFO register for address
+2019-03-15 00:24:09,960 register_view.py[line:34] INFO click register button
+2019-03-15 00:25:01,531 desired_caps.py[line:25] INFO start app...
+2019-03-15 00:25:12,854 desired_caps.py[line:25] INFO start app...
+2019-03-15 00:25:38,199 home_page.py[line:12] INFO checking cancelBtn
+2019-03-15 00:25:38,856 home_page.py[line:17] INFO click cancel button
+2019-03-15 00:25:38,885 home_page.py[line:22] INFO checking skipBtn
+2019-03-15 00:25:39,699 home_page.py[line:27] INFO click skip button
+2019-03-15 00:25:39,731 register_view.py[line:20] INFO start register
+2019-03-15 00:25:40,977 register_view.py[line:22] INFO start for image
+2019-03-15 00:25:42,611 register_view.py[line:24] INFO start for select picture
+2019-03-15 00:25:43,884 register_view.py[line:26] INFO start for save image
+2019-03-15 00:25:45,242 register_view.py[line:28] INFO register for username
+2019-03-15 00:25:47,468 register_view.py[line:30] INFO register for password
+2019-03-15 00:25:48,546 register_view.py[line:32] INFO register for address
+2019-03-15 00:25:50,208 register_view.py[line:35] INFO click register button
+2019-03-15 00:26:31,554 desired_caps.py[line:25] INFO start app...
+2019-03-15 00:26:55,965 home_page.py[line:12] INFO checking cancelBtn
+2019-03-15 00:26:56,717 home_page.py[line:17] INFO click cancel button
+2019-03-15 00:26:56,747 home_page.py[line:22] INFO checking skipBtn
+2019-03-15 00:26:57,493 home_page.py[line:27] INFO click skip button
+2019-03-15 00:26:57,521 register_view.py[line:20] INFO start register
+2019-03-15 00:26:58,785 register_view.py[line:22] INFO start for image
+2019-03-15 00:27:08,872 desired_caps.py[line:25] INFO start app...
+2019-03-15 00:27:28,762 home_page.py[line:12] INFO checking cancelBtn
+2019-03-15 00:27:29,505 home_page.py[line:17] INFO click cancel button
+2019-03-15 00:27:29,532 home_page.py[line:22] INFO checking skipBtn
+2019-03-15 00:27:30,282 home_page.py[line:27] INFO click skip button
+2019-03-15 00:27:30,314 register_view.py[line:20] INFO start register
+2019-03-15 00:27:31,561 register_view.py[line:22] INFO start for image
+2019-03-15 00:27:32,597 register_view.py[line:24] INFO start for select picture
+2019-03-15 00:27:35,125 register_view.py[line:26] INFO start for save image
+2019-03-15 00:27:35,200 register_view.py[line:28] INFO register for username
+2019-03-15 00:27:36,817 register_view.py[line:30] INFO register for password
+2019-03-15 00:27:38,506 register_view.py[line:33] INFO register for address
+2019-03-15 00:27:40,315 register_view.py[line:36] INFO click register button
+2019-03-15 13:47:59,108 desired_caps.py[line:25] INFO start app...
+2019-03-15 13:49:16,436 desired_caps.py[line:25] INFO start app...
+2019-03-15 13:49:40,851 home_page.py[line:12] INFO checking cancelBtn
+2019-03-15 13:49:41,657 home_page.py[line:17] INFO click cancel button
+2019-03-15 13:49:42,417 home_page.py[line:22] INFO checking skipBtn
+2019-03-15 13:49:42,467 home_page.py[line:27] INFO click skip button
+2019-03-15 13:49:42,488 register_view.py[line:20] INFO start register
+2019-03-15 13:49:43,584 register_view.py[line:22] INFO start for image
+2019-03-15 13:49:45,134 register_view.py[line:24] INFO start for select picture
+2019-03-15 13:49:46,222 register_view.py[line:26] INFO start for save image
+2019-03-15 13:49:47,503 register_view.py[line:28] INFO register for username
+2019-03-15 13:49:49,107 register_view.py[line:30] INFO register for password
+2019-03-15 13:49:50,837 register_view.py[line:33] INFO register for address
+2019-03-15 13:49:52,662 register_view.py[line:36] INFO click register button
+2019-03-15 16:33:34,062 desired_caps.py[line:25] INFO start app...
+2019-03-15 16:34:08,285 desired_caps.py[line:25] INFO start app...
+2019-03-15 22:50:37,435 desired_caps.py[line:25] INFO start app...
+2019-03-15 22:51:05,403 home_page.py[line:13] INFO checking cancelBtn
+2019-03-15 22:51:05,988 home_page.py[line:18] INFO click cancel button
+2019-03-15 22:51:06,724 home_page.py[line:23] INFO checking skipBtn
+2019-03-15 22:51:06,752 home_page.py[line:28] INFO click skip button
+2019-03-15 22:51:06,780 register_view.py[line:20] INFO start register
+2019-03-15 22:51:07,856 register_view.py[line:22] INFO start for image
+2019-03-15 22:51:08,856 register_view.py[line:24] INFO start for select picture
+2019-03-15 22:51:11,371 register_view.py[line:26] INFO start for save image
+2019-03-15 22:51:11,438 register_view.py[line:28] INFO register for username
+2019-03-15 22:51:13,625 register_view.py[line:30] INFO register for password
+2019-03-15 22:51:15,217 register_view.py[line:33] INFO register for address
+2019-03-15 22:51:16,976 register_view.py[line:36] INFO click register button
+2019-03-16 10:54:39,759 desired_caps.py[line:25] INFO start app...
+2019-03-16 10:55:40,337 desired_caps.py[line:25] INFO start app...
+2019-03-16 10:56:02,551 home_page.py[line:13] INFO checking cancelBtn
+2019-03-16 10:56:03,313 home_page.py[line:18] INFO click cancel button
+2019-03-16 10:56:04,061 home_page.py[line:23] INFO checking skipBtn
+2019-03-16 10:56:04,079 home_page.py[line:28] INFO click skip button
+2019-03-16 10:56:04,101 register_view.py[line:20] INFO start register
+2019-03-16 10:56:05,154 register_view.py[line:22] INFO start for image
+2019-03-16 10:56:06,650 register_view.py[line:24] INFO start for select picture
+2019-03-16 10:56:08,985 register_view.py[line:26] INFO start for save image
+2019-03-16 10:56:09,028 register_view.py[line:28] INFO register for username
+2019-03-16 10:56:10,555 register_view.py[line:30] INFO register for password
+2019-03-16 10:56:12,179 register_view.py[line:33] INFO register for address
+2019-03-16 10:56:13,869 register_view.py[line:36] INFO click register button
+2019-03-16 10:56:16,914 home_page.py[line:51] INFO get toast
+2019-03-16 10:56:17,621 home_page.py[line:59] INFO toast is 用户名已存在
+2019-03-16 10:56:43,027 desired_caps.py[line:25] INFO start app...
+2019-03-16 10:56:59,708 home_page.py[line:13] INFO checking cancelBtn
+2019-03-16 10:57:00,477 home_page.py[line:18] INFO click cancel button
+2019-03-16 10:57:00,505 home_page.py[line:23] INFO checking skipBtn
+2019-03-16 10:57:01,191 home_page.py[line:28] INFO click skip button
+2019-03-16 10:57:01,224 register_view.py[line:20] INFO start register
+2019-03-16 10:57:02,271 register_view.py[line:22] INFO start for image
+2019-03-16 10:57:03,422 register_view.py[line:24] INFO start for select picture
+2019-03-16 10:57:05,801 register_view.py[line:26] INFO start for save image
+2019-03-16 10:57:05,843 register_view.py[line:28] INFO register for username
+2019-03-16 10:57:07,355 register_view.py[line:30] INFO register for password
+2019-03-16 10:57:08,933 register_view.py[line:33] INFO register for address
+2019-03-16 10:57:10,643 register_view.py[line:36] INFO click register button
+2019-03-16 10:57:13,689 home_page.py[line:51] INFO get toast
+2019-03-16 10:57:14,398 home_page.py[line:59] INFO toast is 用户名已存在
+2019-03-16 10:59:29,300 desired_caps.py[line:26] INFO start app...
+2019-03-16 10:59:44,580 home_page.py[line:13] INFO checking cancelBtn
+2019-03-16 10:59:45,258 home_page.py[line:18] INFO click cancel button
+2019-03-16 10:59:45,274 home_page.py[line:23] INFO checking skipBtn
+2019-03-16 10:59:45,942 home_page.py[line:28] INFO click skip button
+2019-03-16 10:59:45,961 register_view.py[line:20] INFO start register
+2019-03-16 10:59:46,987 register_view.py[line:22] INFO start for image
+2019-03-16 10:59:48,492 register_view.py[line:24] INFO start for select picture
+2019-03-16 10:59:50,870 register_view.py[line:26] INFO start for save image
+2019-03-16 10:59:50,920 register_view.py[line:28] INFO register for username
+2019-03-16 10:59:52,474 register_view.py[line:30] INFO register for password
+2019-03-16 10:59:54,062 register_view.py[line:33] INFO register for address
+2019-03-16 10:59:55,775 register_view.py[line:36] INFO click register button
+2019-03-16 10:59:58,828 home_page.py[line:51] INFO get toast
+2019-03-16 10:59:59,637 home_page.py[line:59] INFO toast is 用户名已存在
+2019-03-18 19:14:58,405 desired_caps.py[line:26] INFO start app...
+2019-03-18 19:21:33,301 desired_caps.py[line:26] INFO start app...
+2019-03-18 19:22:32,208 desired_caps.py[line:26] INFO start app...
+2019-03-18 19:23:15,147 desired_caps.py[line:26] INFO start app...
+2019-03-18 20:59:20,448 desired_caps.py[line:26] INFO start app...
+2019-03-18 20:59:58,707 desired_caps.py[line:26] INFO start app...
+2019-03-18 21:02:40,273 desired_caps.py[line:26] INFO start app...
+2019-03-18 21:13:50,866 desired_caps.py[line:26] INFO start app...
+2019-03-18 21:15:11,685 desired_caps.py[line:26] INFO start app...
+2019-03-18 21:19:50,106 desired_caps.py[line:26] INFO start app...
+2019-03-18 21:22:44,042 desired_caps.py[line:26] INFO start app...
+2019-03-18 21:30:29,833 desired_caps.py[line:26] INFO start app...
+2019-03-18 21:34:00,097 desired_caps.py[line:26] INFO start app...
+2019-03-18 21:36:13,007 desired_caps.py[line:26] INFO start app...
+2019-03-18 21:36:51,467 desired_caps.py[line:26] INFO start app...
+2019-03-18 21:40:35,427 desired_caps.py[line:25] INFO start app...
+2019-03-18 21:40:48,830 home_page.py[line:13] INFO checking cancelBtn
+2019-03-18 21:41:00,457 home_page.py[line:16] INFO no cancel button
+2019-03-18 21:41:00,457 home_page.py[line:23] INFO checking skipBtn
+2019-03-18 21:41:11,557 home_page.py[line:26] INFO no  skip button
+2019-03-18 21:41:11,558 register_view.py[line:20] INFO start register
+2019-03-18 21:41:12,701 register_view.py[line:22] INFO start for image
+2019-03-18 21:41:12,766 register_view.py[line:24] INFO start for select picture
+2019-03-18 21:41:13,969 register_view.py[line:26] INFO start for save image
+2019-03-18 21:41:15,322 register_view.py[line:28] INFO register for username
+2019-03-18 21:41:16,854 register_view.py[line:30] INFO register for password
+2019-03-18 21:41:18,474 register_view.py[line:33] INFO register for address
+2019-03-18 21:41:20,302 register_view.py[line:36] INFO click register button
+2019-03-18 21:41:23,354 home_page.py[line:51] INFO get toast
+2019-03-18 21:41:24,268 home_page.py[line:59] INFO toast is 用户名已存在
+2019-03-18 22:06:39,509 desired_caps.py[line:25] INFO start app...
+2019-03-18 22:06:53,188 home_page.py[line:13] INFO checking cancelBtn
+2019-03-18 22:07:04,064 home_page.py[line:16] INFO no cancel button
+2019-03-18 22:07:04,064 home_page.py[line:23] INFO checking skipBtn
+2019-03-18 22:07:14,950 home_page.py[line:26] INFO no  skip button
+2019-03-18 22:07:14,950 register_view.py[line:20] INFO start register
+2019-03-18 22:07:15,104 register_view.py[line:22] INFO start for image
+2019-03-18 22:07:16,648 register_view.py[line:24] INFO start for select picture
+2019-03-18 22:07:19,046 register_view.py[line:26] INFO start for save image
+2019-03-18 22:07:19,108 register_view.py[line:28] INFO register for username
+2019-03-18 22:07:20,687 register_view.py[line:30] INFO register for password
+2019-03-18 22:07:22,278 register_view.py[line:33] INFO register for address
+2019-03-18 22:07:24,009 register_view.py[line:36] INFO click register button
+2019-03-18 22:07:27,070 home_page.py[line:51] INFO get toast
+2019-03-18 22:07:37,826 home_page.py[line:56] INFO not toast
+2019-03-18 22:08:36,358 desired_caps.py[line:25] INFO start app...
+2019-03-18 22:08:54,676 home_page.py[line:13] INFO checking cancelBtn
+2019-03-18 22:09:05,729 home_page.py[line:16] INFO no cancel button
+2019-03-18 22:09:05,730 home_page.py[line:23] INFO checking skipBtn
+2019-03-18 22:09:16,841 home_page.py[line:26] INFO no  skip button
+2019-03-18 22:09:16,841 register_view.py[line:20] INFO start register
+2019-03-18 22:09:17,013 register_view.py[line:22] INFO start for image
+2019-03-18 22:09:18,604 register_view.py[line:24] INFO start for select picture
+2019-03-18 22:09:21,196 register_view.py[line:26] INFO start for save image
+2019-03-18 22:09:21,255 register_view.py[line:28] INFO register for username
+2019-03-18 22:09:22,839 register_view.py[line:30] INFO register for password
+2019-03-18 22:09:24,436 register_view.py[line:33] INFO register for address
+2019-03-18 22:09:26,175 register_view.py[line:36] INFO click register button
+2019-03-18 22:09:29,568 home_page.py[line:51] INFO get toast
+2019-03-18 22:09:40,529 home_page.py[line:56] INFO not toast
+2019-03-18 22:15:28,589 desired_caps.py[line:25] INFO start app...
+2019-03-18 22:15:42,235 home_page.py[line:13] INFO checking cancelBtn
+2019-03-18 22:15:53,101 home_page.py[line:16] INFO no cancel button
+2019-03-18 22:15:53,102 home_page.py[line:23] INFO checking skipBtn
+2019-03-18 22:16:04,042 home_page.py[line:26] INFO no  skip button
+2019-03-18 22:16:04,043 register_view.py[line:20] INFO start register
+2019-03-18 22:16:04,250 register_view.py[line:22] INFO start for image
+2019-03-18 22:16:05,988 register_view.py[line:24] INFO start for select picture
+2019-03-18 22:16:08,431 register_view.py[line:26] INFO start for save image
+2019-03-18 22:16:08,498 register_view.py[line:28] INFO register for username
+2019-03-18 22:16:10,038 register_view.py[line:30] INFO register for password
+2019-03-18 22:16:11,633 register_view.py[line:33] INFO register for address
+2019-03-18 22:16:13,359 register_view.py[line:36] INFO click register button
+2019-03-18 22:16:16,407 home_page.py[line:51] INFO get toast
+2019-03-18 22:16:27,155 home_page.py[line:56] INFO not toast
+2019-03-18 22:17:43,753 desired_caps.py[line:25] INFO start app...
+2019-03-18 22:17:58,735 home_page.py[line:13] INFO checking cancelBtn
+2019-03-18 22:18:09,802 home_page.py[line:16] INFO no cancel button
+2019-03-18 22:18:09,803 home_page.py[line:23] INFO checking skipBtn
+2019-03-18 22:18:20,859 home_page.py[line:26] INFO no  skip button
+2019-03-18 22:18:20,859 register_view.py[line:20] INFO start register
+2019-03-18 22:18:22,151 register_view.py[line:22] INFO start for image
+2019-03-18 22:18:22,213 register_view.py[line:24] INFO start for select picture
+2019-03-18 22:18:24,850 register_view.py[line:26] INFO start for save image
+2019-03-18 22:18:24,919 register_view.py[line:28] INFO register for username
+2019-03-18 22:18:26,497 register_view.py[line:30] INFO register for password
+2019-03-18 22:18:28,135 register_view.py[line:33] INFO register for address
+2019-03-18 22:18:30,627 register_view.py[line:36] INFO click register button
+2019-03-18 22:18:33,698 home_page.py[line:51] INFO get toast
+2019-03-18 22:18:45,117 home_page.py[line:56] INFO not toast
+2019-03-18 22:18:55,085 desired_caps.py[line:25] INFO start app...
+2019-03-18 22:19:16,269 home_page.py[line:13] INFO checking cancelBtn
+2019-03-18 22:19:27,320 home_page.py[line:16] INFO no cancel button
+2019-03-18 22:19:27,321 home_page.py[line:23] INFO checking skipBtn
+2019-03-18 22:19:38,416 home_page.py[line:26] INFO no  skip button
+2019-03-18 22:19:38,416 register_view.py[line:20] INFO start register
+2019-03-18 22:19:38,623 register_view.py[line:22] INFO start for image
+2019-03-18 22:19:40,209 register_view.py[line:24] INFO start for select picture
+2019-03-18 22:19:42,736 register_view.py[line:26] INFO start for save image
+2019-03-18 22:19:42,803 register_view.py[line:28] INFO register for username
+2019-03-18 22:19:44,406 register_view.py[line:30] INFO register for password
+2019-03-18 22:19:46,026 register_view.py[line:33] INFO register for address
+2019-03-18 22:21:18,147 desired_caps.py[line:25] INFO start app...
+2019-03-18 22:21:32,724 home_page.py[line:13] INFO checking cancelBtn
+2019-03-18 22:21:43,657 home_page.py[line:16] INFO no cancel button
+2019-03-18 22:21:43,657 home_page.py[line:23] INFO checking skipBtn
+2019-03-18 22:21:54,624 home_page.py[line:26] INFO no  skip button
+2019-03-18 22:21:54,625 register_view.py[line:20] INFO start register
+2019-03-18 22:21:54,820 register_view.py[line:22] INFO start for image
+2019-03-18 22:21:56,398 register_view.py[line:24] INFO start for select picture
+2019-03-18 22:21:59,000 register_view.py[line:26] INFO start for save image
+2019-03-18 22:21:59,060 register_view.py[line:28] INFO register for username
+2019-03-18 22:22:00,656 register_view.py[line:30] INFO register for password
+2019-03-18 22:22:02,259 register_view.py[line:33] INFO register for address
+2019-03-18 22:22:04,002 register_view.py[line:36] INFO click register button
+2019-03-18 22:22:07,085 home_page.py[line:51] INFO get toast
+2019-03-18 22:22:18,217 home_page.py[line:56] INFO not toast
+2019-03-18 22:44:00,766 desired_caps.py[line:25] INFO start app...
+2019-03-18 22:44:14,665 home_page.py[line:14] INFO checking cancelBtn
+2019-03-18 22:44:25,973 home_page.py[line:17] INFO no cancel button
+2019-03-18 22:44:25,973 home_page.py[line:24] INFO checking skipBtn
+2019-03-18 22:44:37,309 home_page.py[line:27] INFO no  skip button
+2019-03-18 22:44:37,309 register_view.py[line:20] INFO start register
+2019-03-18 22:44:37,449 register_view.py[line:22] INFO start for image
+2019-03-18 22:44:39,001 register_view.py[line:24] INFO start for select picture
+2019-03-18 22:44:41,497 register_view.py[line:26] INFO start for save image
+2019-03-18 22:44:41,551 register_view.py[line:28] INFO register for username
+2019-03-18 22:44:43,206 register_view.py[line:30] INFO register for password
+2019-03-18 22:44:44,808 register_view.py[line:33] INFO register for address
+2019-03-18 22:44:46,557 register_view.py[line:36] INFO click register button
+2019-03-18 22:44:49,608 home_page.py[line:52] INFO get toast
+2019-03-18 22:45:00,474 home_page.py[line:57] INFO not toast
+2019-03-18 22:46:14,708 desired_caps.py[line:25] INFO start app...
+2019-03-18 22:46:30,364 home_page.py[line:14] INFO checking cancelBtn
+2019-03-18 22:46:41,312 home_page.py[line:17] INFO no cancel button
+2019-03-18 22:46:41,313 home_page.py[line:24] INFO checking skipBtn
+2019-03-18 22:46:52,277 home_page.py[line:27] INFO no  skip button
+2019-03-18 22:46:52,277 register_view.py[line:20] INFO start register
+2019-03-18 22:46:53,483 register_view.py[line:22] INFO start for image
+2019-03-18 22:46:53,542 register_view.py[line:24] INFO start for select picture
+2019-03-18 22:46:56,066 register_view.py[line:26] INFO start for save image
+2019-03-18 22:46:56,123 register_view.py[line:28] INFO register for username
+2019-03-18 22:46:57,692 register_view.py[line:30] INFO register for password
+2019-03-18 22:46:59,310 register_view.py[line:33] INFO register for address
+2019-03-18 22:47:01,069 register_view.py[line:36] INFO click register button
+2019-03-18 22:47:04,135 home_page.py[line:52] INFO get toast
+2019-03-18 22:47:15,225 home_page.py[line:57] INFO not toast
+2019-03-18 22:54:19,031 desired_caps.py[line:25] INFO start app...
+2019-03-18 22:54:33,040 home_page.py[line:14] INFO checking cancelBtn
+2019-03-18 22:54:44,324 home_page.py[line:17] INFO no cancel button
+2019-03-18 22:54:44,324 home_page.py[line:24] INFO checking skipBtn
+2019-03-18 22:54:55,270 home_page.py[line:27] INFO no  skip button
+2019-03-18 22:54:55,271 register_view.py[line:20] INFO start register
+2019-03-18 22:54:55,453 register_view.py[line:22] INFO start for image
+2019-03-18 22:54:57,033 register_view.py[line:24] INFO start for select picture
+2019-03-18 22:54:59,534 register_view.py[line:26] INFO start for save image
+2019-03-18 22:54:59,599 register_view.py[line:28] INFO register for username
+2019-03-18 22:55:01,136 register_view.py[line:30] INFO register for password
+2019-03-18 22:55:02,736 register_view.py[line:33] INFO register for address
+2019-03-18 22:55:04,463 register_view.py[line:36] INFO click register button
+2019-03-18 22:55:07,527 home_page.py[line:52] INFO get toast
+2019-03-18 22:55:18,508 home_page.py[line:57] INFO not toast
+2019-03-18 23:04:13,882 desired_caps.py[line:25] INFO start app...
+2019-03-18 23:04:27,503 home_page.py[line:14] INFO checking cancelBtn
+2019-03-18 23:04:38,433 home_page.py[line:17] INFO no cancel button
+2019-03-18 23:04:38,433 home_page.py[line:24] INFO checking skipBtn
+2019-03-18 23:04:49,383 home_page.py[line:27] INFO no  skip button
+2019-03-18 23:04:49,383 register_view.py[line:20] INFO start register
+2019-03-18 23:04:49,537 register_view.py[line:22] INFO start for image
+2019-03-18 23:04:50,563 register_view.py[line:24] INFO start for select picture
+2019-03-18 23:04:52,929 register_view.py[line:26] INFO start for save image
+2019-03-18 23:04:52,973 register_view.py[line:28] INFO register for username
+2019-03-18 23:04:54,504 register_view.py[line:30] INFO register for password
+2019-03-18 23:04:56,142 register_view.py[line:33] INFO register for address
+2019-03-18 23:04:57,878 register_view.py[line:36] INFO click register button
+2019-03-18 23:05:00,928 home_page.py[line:52] INFO get toast
+2019-03-18 23:05:12,061 home_page.py[line:57] INFO not toast
+2019-03-18 23:05:13,889 desired_caps.py[line:25] INFO start app...
+2019-03-18 23:05:33,898 home_page.py[line:14] INFO checking cancelBtn
+2019-03-18 23:05:44,843 home_page.py[line:17] INFO no cancel button
+2019-03-18 23:05:44,843 home_page.py[line:24] INFO checking skipBtn
+2019-03-18 23:05:55,808 home_page.py[line:27] INFO no  skip button
+2019-03-18 23:05:55,810 register_view.py[line:20] INFO start register
+2019-03-18 23:05:55,971 register_view.py[line:22] INFO start for image
+2019-03-18 23:05:57,551 register_view.py[line:24] INFO start for select picture
+2019-03-18 23:06:00,082 register_view.py[line:26] INFO start for save image
+2019-03-18 23:06:00,141 register_view.py[line:28] INFO register for username
+2019-03-18 23:06:01,755 register_view.py[line:30] INFO register for password
+2019-03-18 23:06:03,364 register_view.py[line:33] INFO register for address
+2019-03-18 23:06:05,098 register_view.py[line:36] INFO click register button
+2019-03-18 23:06:08,186 home_page.py[line:52] INFO get toast
+2019-03-19 15:10:48,237 desired_caps.py[line:26] INFO start app...
+2019-03-19 15:14:26,256 desired_caps.py[line:26] INFO start app...
+2019-03-19 15:16:30,609 desired_caps.py[line:26] INFO start app...
+2019-03-19 15:21:48,793 desired_caps.py[line:26] INFO start app...
+2019-03-19 15:57:36,659 desired_caps.py[line:26] INFO start app...
+2019-03-19 15:59:02,611 desired_caps.py[line:26] INFO start app...
+2019-03-19 15:59:22,389 login_veiw.py[line:17] INFO start login
+2019-03-19 15:59:33,306 login_veiw.py[line:17] INFO start login
+2019-03-19 15:59:57,209 desired_caps.py[line:26] INFO start app...
+2019-03-19 16:00:09,748 login_veiw.py[line:17] INFO start login
+2019-03-19 16:00:10,960 login_veiw.py[line:19] INFO username: 自学网2018
+2019-03-19 16:00:12,006 login_veiw.py[line:21] INFO password: zxw2018
+2019-03-19 16:00:13,070 login_veiw.py[line:23] INFO click login button
+2019-03-19 16:00:13,604 login_veiw.py[line:25] INFO login success
+2019-03-19 16:00:13,605 login_veiw.py[line:38] INFO check login status
+2019-03-19 16:00:13,605 login_veiw.py[line:28] INFO check login alert
+2019-03-19 16:00:25,260 login_veiw.py[line:32] INFO no login alert
+2019-03-19 16:00:26,130 login_veiw.py[line:47] INFO login success
+2019-03-19 16:00:26,137 login_veiw.py[line:17] INFO start login
+2019-03-19 16:38:27,293 desired_caps.py[line:26] INFO start app...
+2019-03-19 16:38:41,083 login_veiw.py[line:17] INFO start login
+2019-03-19 17:49:28,977 desired_caps.py[line:26] INFO start app...
+2019-03-19 17:50:14,042 desired_caps.py[line:26] INFO start app...
+2019-03-19 17:57:31,923 desired_caps.py[line:26] INFO start app...
+2019-03-19 18:00:36,244 desired_caps.py[line:26] INFO start app...
+2019-03-19 18:01:04,282 desired_caps.py[line:26] INFO start app...

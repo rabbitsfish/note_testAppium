@@ -1,0 +1,12 @@
+device_ip: 127.0.0.1
+device_port: 62025
+platformName: Android
+appPackage: com.gionee.note
+appActivity: com.gionee.note.HomeActivity
+platformVersion: 7.1.1
+automationName: uiautomator2
+app: Amigo_Note.apk
+noReset: True
+unicodeKeyboard: True
+resetKeyboard: True
+newCommandTimeout: 2000
