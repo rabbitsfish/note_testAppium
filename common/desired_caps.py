@@ -31,3 +31,4 @@ def appium_desired_caps():
 
 if __name__ == '__main__':
     appium_desired_caps()
+    print('xxxxx')
