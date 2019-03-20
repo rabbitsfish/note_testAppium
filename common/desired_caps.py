@@ -3,7 +3,8 @@ from appium import webdriver
 import logging.config
 import os
 import warnings
-CON_LOG = '../config/log.conf'
+CON_LOG = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'config/log.conf')
+print('CON_LOG:', CON_LOG)
 logging.config.fileConfig(CON_LOG)
 logging = logging.getLogger()
 app_package_data = None
@@ -15,8 +16,8 @@ def appium_desired_caps():
     desired_caps['deviceName'] = str(data['device_ip']) + ':' + str(data['device_port'])
     desired_caps['platformName'] = data['platformName']
     global app_package_data, app_activity_data
-    desired_caps['appPackage'], app_package_data = data['appPackage']
-    desired_caps['appActivity'], app_activity_data = data['appActivity']
+    desired_caps['appPackage'], app_package_data = data['appPackage'], data['appPackage']
+    desired_caps['appActivity'], app_activity_data = data['appActivity'], data['appActivity']
     desired_caps['platformVersion'] = data['platformVersion']
     desired_caps['automationName'] = data['automationName']
     app_dir = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'app', data['app'])
@@ -33,5 +34,3 @@ def appium_desired_caps():
 
 if __name__ == '__main__':
     driver = appium_desired_caps()
-    driver.find_element_by_id('amigo:id/amigo_button2').click()
-    driver.keyevent(3)
