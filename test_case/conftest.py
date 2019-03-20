@@ -4,15 +4,13 @@ import time
 import os
 import sys
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
-from businessView.register_view import RegisterView
-from common.home_page import *
+from common.desired_caps import *
 
 driver = None
-@pytest.fixture(scope='module')
+@pytest.fixture(scope='session')
 def start():
     global driver
     driver = appium_desired_caps()
-    print(driver)
     yield driver
     driver.close_app()
 

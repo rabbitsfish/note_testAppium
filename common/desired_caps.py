@@ -6,15 +6,17 @@ import warnings
 CON_LOG = '../config/log.conf'
 logging.config.fileConfig(CON_LOG)
 logging = logging.getLogger()
-
+app_package_data = None
+app_activity_data = None
 def appium_desired_caps():
     with open('../config/desired_caps.yaml', 'r', encoding='utf-8') as file:
         data = yaml.load(file)
     desired_caps = {}
     desired_caps['deviceName'] = str(data['device_ip']) + ':' + str(data['device_port'])
     desired_caps['platformName'] = data['platformName']
-    desired_caps['appPackage'] = data['appPackage']
-    desired_caps['appActivity'] = data['appActivity']
+    global app_package_data, app_activity_data
+    desired_caps['appPackage'], app_package_data = data['appPackage']
+    desired_caps['appActivity'], app_activity_data = data['appActivity']
     desired_caps['platformVersion'] = data['platformVersion']
     desired_caps['automationName'] = data['automationName']
     app_dir = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'app', data['app'])
@@ -30,5 +32,6 @@ def appium_desired_caps():
     return driver
 
 if __name__ == '__main__':
-    appium_desired_caps()
-    print('xxxxx')
+    driver = appium_desired_caps()
+    driver.find_element_by_id('amigo:id/amigo_button2').click()
+    driver.keyevent(3)
